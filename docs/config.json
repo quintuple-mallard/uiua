@@ -1,0 +1,32 @@
+{
+  "docs": [
+    {
+      "uuid": "1c0df37c-a353-42df-999e-679e993b3cf4",
+      "slug": "installation",
+      "path": "docs/INSTALLATION.md",
+      "title": "Installing Uiua locally",
+      "blurb": "Learn how to install Uiua locally to solve Exercism's exercises on your own machine"
+    },
+    {
+      "uuid": "33bd8279-5e1f-4e01-a501-a734c41ba608",
+      "slug": "learning",
+      "path": "docs/LEARNING.md",
+      "title": "How to learn Uiua",
+      "blurb": "An overview of how to get started from scratch with Uiua"
+    },
+    {
+      "uuid": "32878e34-03aa-4086-b197-5bad6e811dcc",
+      "slug": "tests",
+      "path": "docs/TESTS.md",
+      "title": "Testing on the Uiua track",
+      "blurb": "Learn how to test your Uiua exercises on Exercism"
+    },
+    {
+      "uuid": "d16bfa31-8639-44b1-8edf-f22b15a25e23",
+      "slug": "resources",
+      "path": "docs/RESOURCES.md",
+      "title": "Useful Uiua resources",
+      "blurb": "A collection of useful resources to help you master Uiua"
+    }
+  ]
+}
