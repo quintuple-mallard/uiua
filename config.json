@@ -167,6 +167,14 @@
         "difficulty": 1
       },
       {
+        "slug": "rna-transcription",
+        "name": "RNA Transcription",
+        "uuid": "e00c0361-ea52-4f15-b368-d9bc3a2b7e42",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
         "slug": "armstrong-numbers",
         "name": "Armstrong Numbers",
         "uuid": "c03770d3-bb65-40bf-b687-12f31000f28c",
