@@ -55,6 +55,14 @@
         "difficulty": 3
       },
       {
+        "slug": "hamming",
+        "name": "Hamming",
+        "uuid": "f1f4a83b-4f99-4452-8984-f8d98cb8a38f",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 3
+      },
+      {
         "slug": "eliuds-eggs",
         "name": "Eliud's Eggs",
         "uuid": "2cb4a083-f7ef-4212-970e-d7d6d619cf22",
