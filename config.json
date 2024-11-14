@@ -111,6 +111,14 @@
         "difficulty": 2
       },
       {
+        "slug": "resistor-color-duo",
+        "name": "Resistor Color Duo",
+        "uuid": "cc4e0ee9-2c02-4dec-b5b6-dd0379b028dd",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 2
+      },
+      {
         "slug": "two-fer",
         "name": "Two-Fer",
         "uuid": "ffa73b1f-6495-4c46-bf3a-8f8221cd0c7b",
@@ -186,6 +194,7 @@
         "slug": "grains",
         "name": "Grains",
         "uuid": "69abd70e-90c4-4449-b6c6-4930207f6104",
+
         "practices": [],
         "prerequisites": [],
         "difficulty": 2
