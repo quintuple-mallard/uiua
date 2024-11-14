@@ -55,6 +55,14 @@
         "difficulty": 3
       },
       {
+        "slug": "eliuds-eggs",
+        "name": "Eliud's Eggs",
+        "uuid": "2cb4a083-f7ef-4212-970e-d7d6d619cf22",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 1
+      },
+      {
         "slug": "collatz-conjecture",
         "name": "Collatz Conjecture",
         "uuid": "7ea16d08-0b52-418c-b391-00ab14a16c67",
