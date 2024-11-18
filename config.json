@@ -327,6 +327,14 @@
         "difficulty": 3
       },
       {
+        "slug": "pascals-triangle",
+        "name": "Pascal's Triangle",
+        "uuid": "ead1e72f-cee3-4222-a261-2098b7c23d0d",
+        "practices": [],
+        "prerequisites": [],
+        "difficulty": 4
+      },
+      {
         "slug": "high-scores",
         "name": "High Scores",
         "uuid": "803f7779-8a3f-4c4f-88d1-edf40f76f53e",
