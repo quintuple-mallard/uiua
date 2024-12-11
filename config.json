@@ -650,6 +650,21 @@
         "prerequisites": [],
         "difficulty": 9
       }
+    ],
+    "foregone": [
+      "bank-account",
+      "binary-search-tree",
+      "complex-numbers",
+      "custom-set",
+      "dot-dsl",
+      "error-handling",
+      "hangman",
+      "lens-person",
+      "linked-list",
+      "paasio",
+      "react",
+      "simple-linked-list",
+      "tree-building"
     ]
   },
   "key_features": [
