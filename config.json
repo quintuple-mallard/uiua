@@ -2,7 +2,7 @@
   "language": "Uiua",
   "slug": "uiua",
   "active": true,
-  "status": {
+  "status": { 
     "concept_exercises": false,
     "test_runner": true,
     "representer": false,
